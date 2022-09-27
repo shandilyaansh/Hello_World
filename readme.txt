@@ -1,7 +1,8 @@
-Anshu Kumar Jha
-Anjani Kumar Jha
+Good Morning, to all of you!
+This is Anshu Kumar in Font of you;
+Today I am going to talk about new class amongs us
 
-Hello Anshu
-Hello Anjani
+So lets, Continue....
 
-This is Tutorial class
+
+This is a Tutorial Class of GIT and GIT-HUB,
